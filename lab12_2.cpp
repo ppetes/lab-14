@@ -21,5 +21,3 @@ int main()
     }while(s != 0 && x != 0 && y != 0 );
              return 0;    
 }
-
-// Write definition of updateImage() and showImage() here
