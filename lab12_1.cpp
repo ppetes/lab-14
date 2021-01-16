@@ -4,8 +4,7 @@ using namespace std;
 
 void stat(const double[],int,double []);
 
-int main()
-{
+int main(){
     double A[] = {1.2,-3.5,6.9,7.8,12.5,-0.5};
     int N = sizeof(A)/sizeof(A[0]);
     double B[4];
