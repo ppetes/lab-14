@@ -16,5 +16,3 @@ int main()
     cout << "\nMin = " << B[3];
     return 0;
 }
-
-//Write definition of stat() here 
