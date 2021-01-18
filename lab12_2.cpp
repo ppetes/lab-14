@@ -18,6 +18,6 @@ int main()
         cout << "Input your brush size and location: ";
         cin >> s >> x >> y;
         updateImage(image,s,x,y);
-    }while(s != 0 && x != 0 && y != 0 );
+    }while(s != 0 || x != 0 || y != 0);
     return 0;    
 }
