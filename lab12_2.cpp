@@ -19,5 +19,5 @@ int main()
         cin >> s >> x >> y;
         updateImage(image,s,x,y);
     }while(s != 0 && x != 0 && y != 0 );
-             return 0;    
+    return 0;    
 }
